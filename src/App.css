@@ -1,0 +1,209 @@
+.header-color{
+background: #03001e;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #fdeff9, #ec38bc, #7303c0, #03001e);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #fdeff9, #ec38bc, #7303c0, #03001e); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+.landing-grid{
+background: #03001e; /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #fdeff9, #ec38bc, #7303c0, #03001e); /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #fdeff9, #ec38bc, #7303c0, #03001e); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+position: fixed;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%; 
+text-align: center;
+}
+
+.contacts-body {
+  margin: auto;
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  justify-content: center;
+  padding-top: 2em;
+  background: #FBD3E9;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #BB377D, #FBD3E9);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #BB377D, #FBD3E9); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+.contacts-grid {
+  text-align: center;
+  justify-content: center;
+  width: 80%;
+  height: 550px;
+  background: white;
+  color: black;
+  margin-bottom: 20px;
+  background: #FBD3E9;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #BB377D, #FBD3E9);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #BB377D, #FBD3E9); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+  
+}
+
+
+.avatar-img{
+  height: 250px;
+  padding-top: 5em;
+  position: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+  
+}
+
+.banner-text {
+  background-color: black;
+  opacity: .8;
+  width: 75%;
+  margin: auto;
+  border-radius: 10px;
+}
+
+.banner-text h1 {
+  font-size: 66px;
+  font-weight: bold;
+  color: white;
+}
+
+.banner-text hr {
+  border-top: 5px dotted white;
+  width: 50%;
+  margin: auto;
+}
+
+.banner-text p {
+  color: white;
+  font-size: 20px;
+  padding: 1em;
+}
+
+.social-links{
+  display: flex;
+  justify-content: space-between;
+  width: 50%;
+  margin: auto; 
+  color: aqua; 
+  height: 50px;
+  width: 50%;
+  font-size: 2em;
+  padding: 8px;
+  
+}
+
+.button-bootstrap{
+  display: flex;
+  justify-content: space-between;
+  color: #7303c0;
+}
+
+.projects-grid{
+  display: flex;
+}
+
+.contacts-grid h2{
+  font-family: 'Merriweather', sans-serif ;
+}
+
+.contacts-grid p{
+  font-family: 'Raleway', sans-serif ;
+  font-weight: bold;
+  width: 100%;
+  font-size: 0.7em;
+  scroll-behavior: auto;
+} 
+
+.contacts-list i{
+  /* font-size: 66px; */
+  padding-right: 2rem;
+}
+
+
+.text-container{
+  margin: auto;
+}
+
+.contacts-paragraph{
+  width: 100%;
+  height: 90%;
+  margin: auto;
+  padding-top: '1em';
+  flex: 1;
+  text-align: justify;
+  font-weight: bold;
+  
+  
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  padding-top: 3em; 
+}
+
+/* h1.train{
+   color:#e7ecf0;
+   text-align: center;
+   font-family: "merriweather";
+   position: absolute;
+   display: block;
+   margin-left: 6.5em;
+   margin-right: auto;
+   width: 40%;
+   
+} */
+
+.back{
+  background: #ee0979;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #ff6a00, #ee0979);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #ff6a00, #ee0979); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  position: absolute;
+}
+
+.aboutme-paragraph{
+  color: #fdeff9;
+  overflow: 'auto';
+  height: 'inherit';
+  flex: 1;
+  text-align: justify;
+  padding-top: 1em;
+  font-family: "raleway";
+  font-weight: bold;
+  padding-left: 5em;
+  padding-right: 5em;
+}
+
+.center2{
+  width: 60%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 2em; 
+}
+
+.back1{
+  background: #83a4d4;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #b6fbff, #83a4d4);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #b6fbff, #83a4d4); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+.latex-button{
+  left: 125%; 
+  margin-left: -200px;
+  justify-content: center;
+}
+
+.channel{
+  color: black;
+}
+
+
+
